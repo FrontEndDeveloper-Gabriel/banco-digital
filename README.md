@@ -13,5 +13,5 @@
 
 # <h4>Requisitos:
 ● Ter um editor de texto na máquina; <br>
-● Ter o Visual Studio Code ou o IDLE Python instalado na máquina; <br>
+● Ter o <a href="https://code.visualstudio.com/download">Visual Studio Code</a> ou o <a href="https://www.python.org/downloads/">IDLE Python</a> instalado na máquina.</h3>
 ● Acessar o <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> e executar em um novo notebook. </h4>
