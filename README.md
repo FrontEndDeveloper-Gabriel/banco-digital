@@ -1,17 +1,48 @@
-# CÓDIGO EM PYTHON - BANCO DIGITAL
+# 🏛 DIGITAL BANK SYSTEM
 
-<h3>Introdução </h3>
-</strong> Neste repositório, foi aplicado um código que simula um Banco Digital. <br>
+<br>
+
+## 📖 About
+```ascii
+> A simple Digital Bank system developed in Python.
+```
+<br>
+
+## 📝 Description
+```ascii
+● This project simulates the basic operations of a Digital Bank.
+● The user must first fill in personal information to access the system.
+● After registration, a welcome screen is displayed.
+● The system provides two main options: Withdrawal and Deposit.
+● When Withdrawal is selected, the amount is subtracted from the account balance.
+● When Deposit is selected, the entered amount is added to the account balance.
+
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+<br>
+
+## 📌 Requeriments
+ ● Have a text editor on your computer; <br>
+ ● Have <strong><a href="https://code.visualstudio.com/download"> Visual Studio Code</a></strong> or <strong><a href="https://www.python.org/downloads/">IDLE Python</a></strong> installed on your computer; <br>
+ ● Access <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> and run it in a new notebook.
 
 
-# <h3>Como funciona? </h3>
-<strong>Manual:</strong>
-1) Será exibido um campo para preencher os dados pessoais; <br>
-2) Depois de preenchido, será exibida uma tela de boas vindas e das opções de <b>SAQUE</b> e de <b>DEPÓSITO</b>; <br>
-   ● Selecionado <b>SAQUE</b>, será feita a subtração do saldo bancário; <br>
-   ● Selecionado <b>DEPÓSITO</b>, será feito a adição do valor digitado ao saldo bancário; <br>
+<br>
 
-# <h4>Requisitos:
-● Ter um editor de texto na máquina; <br>
-● Ter o <a href="https://code.visualstudio.com/download">Visual Studio Code</a> ou o <a href="https://www.python.org/downloads/">IDLE Python</a> instalado na máquina;</h3> <br>
-● Acessar o <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> e executar em um novo notebook. </h4>
+---
+<div align = "center">
+<img src = "/give_a_star.png" width = "594" height = "168">
+</div>
+
+<br>
+
+<div align = "center">
+ Created by <a href = "https://github.com/FrontEndDeveloper-Gabriel/"> Gabriel Ribeiro</a> 👨‍💻
+</div>
+
